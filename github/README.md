@@ -21,9 +21,8 @@ clone
 
 The GitHub workflow mirrors the rhythm of a day:
 
-Start of the day → Always pull from the repository before you begin. This ensures you're working with the most up-to-date code.
-
-End of the day → Always push your code when you finish. This saves your progress and makes it available for others to use.
+* Start of the day → Always pull from the repository before you begin. This ensures you're working with the most up-to-date code.
+* End of the day → Always push your code when you finish. This saves your progress and makes it available for others to use.
 
 ## Version Control
 
