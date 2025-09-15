@@ -17,15 +17,8 @@ It helps to think of the process of working with Git and GitHub as a cycle: you 
 
 clone 
 
-pull 
+![GitHub Loop Image](https://raw.githubusercontent.com/EmoryHPC/practical-data-science/main/github/images/github_loop.png)
 
-stage 
-
-commit
-
-push 
-
-pull 
 
 * always pull before working on code 
 * always push before the day ends 
