@@ -42,7 +42,7 @@ Working with GitHub mirrors the rhythm of a day:
 
 Our work is always provisional and revisable. This is why we use version control. 
 
-## Creativity and Room to Err
+## `.gitignore`
 
 A file saved as `.gitignore`. Note that the period before the name turns this into a hidden file. Your computer can still read it, but you cannot. 
 
@@ -67,4 +67,6 @@ venv/
 # Ignore whole directories
 data/
 ```
+
+## Creativity and Room to Err
 
