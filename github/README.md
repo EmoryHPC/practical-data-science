@@ -19,9 +19,11 @@ clone
 
 ![GitHub Loop Image](https://raw.githubusercontent.com/EmoryHPC/practical-data-science/main/github/images/github_loop.png)
 
+The GitHub workflow mirrors the rhythm of a day:
 
-* always pull before working on code 
-* always push before the day ends 
+Start of the day → Always pull from the repository before you begin. This ensures you're working with the most up-to-date code.
+
+End of the day → Always push your code when you finish. This saves your progress and makes it available for others to use.
 
 ## Version Control
 
