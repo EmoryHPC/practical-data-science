@@ -15,6 +15,22 @@ It helps to think of the process of working with Git and GitHub as a cycle: you 
 
 (make visual) 
 
+First clone the code onto you machine. You can clone 
+
+Using SSH: 
+
+```
+git@github.com:EmoryHPC/practical-data-science.git
+```
+
+or using HTTP: 
+
+```
+https://github.com/EmoryHPC/practical-data-science.git
+```
+
+Both work, except that GitHub only allows transaction using SSH. 
+
 clone 
 
 ![GitHub Loop Image](https://raw.githubusercontent.com/EmoryHPC/practical-data-science/main/github/images/github_loop.png)
