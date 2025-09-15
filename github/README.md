@@ -42,7 +42,7 @@ Working with GitHub mirrors the rhythm of a day:
 
 Our work is always provisional and revisable. This is why we use version control. 
 
-## `.gitignore`
+## Ignoring Files
 
 A file saved as `.gitignore`. Note that the period before the name turns this into a hidden file. Your computer can still read it, but you cannot. 
 
@@ -69,4 +69,16 @@ data/
 ```
 
 ## Creativity and Room to Err
+
+You might create draft notes, experimental code, or half-finished ideas as you work. By adding these to a `.gitignore`, they will stay on your computer but won't be shared with others. This way, your creative "spaghetti code" can stay part of your creative process without turning into a stressy spaghetti ball for someone else.
+
+```
+# Ignore Python cache and compiled files
+__pycache__/
+*.py[cod]
+
+# Ignore specific files
+count_test.py
+test_scatter_plot.py
+```
 
