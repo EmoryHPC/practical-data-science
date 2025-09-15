@@ -44,4 +44,27 @@ Our work is always provisional and revisable. This is why we use version control
 
 ## Creativity and Room to Err
 
-.gitignore 
+A file saved as `.gitignore`. Note that the period before the name turns this into a hidden file. Your computer can still read it, but you cannot. 
+
+This is an example of a `.gitignore`. The `*` means "any filename." For example, `*.log` tells Git to ignore every file that ends with `.log`, no matter what comes before it.
+
+```
+# Ignore Python cache and compiled files
+__pycache__/
+*.py[cod]
+
+# Ignore virtual environments
+venv/
+.env/
+
+# Ignore system files
+.DS_Store
+
+# Ignore logs and temp files
+*.log
+*.tmp
+
+# Ignore whole directories
+data/
+```
+
