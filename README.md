@@ -18,7 +18,22 @@ In this sense, Practical Data Science is an approach to data science tools and m
 
 Verticle slice, and then inspect every stage 
 
-Each project phase should begin with discovery. 
+Each project phase should begin with discovery.
+
+
+Take the Dissentometer project as an example. 
+
+A meta-awareness of the 
+
+Phase I: Data collection from Wikipedia
+* Begin scraping data from Wikipedia.
+* Check: Is the data being scraped as expected? What information do I need? Do I have all the information that I need?
+* Continue scraping data from Wikipedia
+* Check again: Is the data being scraped as expected? What information do I need? Do I have all the information that I need?
+Phase II: Data translation using a LLM 
+Phase III: 
+
+
 
 Discovery Phase 
 
