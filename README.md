@@ -18,7 +18,7 @@ In this sense, Practical Data Science is an approach to data science tools and m
 
 Verticle slice, and then inspect every stage 
 
-
+Each project phase should begin with discovery. 
 
 Discovery Phase 
 
