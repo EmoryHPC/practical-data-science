@@ -8,7 +8,7 @@ In this sense, Practical Data Science is an approach to data science tools and m
 
 * **Usefulness over perfection**. Methods and tools are judged by their ability to guide meaningful action—even if they are approximate, heuristic, or incomplete.
 
-* **Context sensitivity**. Data is not treated as neutral but as embedded in specific social, organizational, and ethical contexts; what is "useful" must always be connected to these lived realities.
+* **Context sensitivity**. Neither data, tools, or methods are not treated as neutral but as embedded in specific social, organizational, and ethical contexts; what is "useful" must always be connected to these lived realities.
 
 * **Iterative problem-solving**. Knowledge emerges through cycles of experimentation, feedback, and adjustment rather than from fixed, final answers.
 
