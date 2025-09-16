@@ -13,3 +13,24 @@ In this sense, Practical Data Science is an approach to data science tools and m
 * **Iterative problem-solving**. Knowledge emerges through cycles of experimentation, feedback, and adjustment rather than from fixed, final answers.
 
 * **Bridging theory and practice**. Like pragmatist philosophy, Practical Data Science refuses to separate theory from application: methods and concepts are evaluated by the consequences they produce when put into practice.
+
+### How to Approach a Problem
+
+Verticle slice, and then inspect every stage 
+
+
+
+Discovery Phase 
+
+Open mind without bias 
+We want to randomly sample outputs 
+Oddities or errors may feel random, but they are never due to randomness. Look for abnormal operations that cause this 
+
+
+Anomolies are not neutral 
+
+
+DO NOT FINISH ONE PHASE IN ITS ENTIRETY BEFORE INSPECTING IT
+
+
+On going discovery 
