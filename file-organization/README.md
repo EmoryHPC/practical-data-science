@@ -12,3 +12,9 @@ Have as shallow of a hierarchy as possible, that way:
 * Everything can be seen (like going on vacation and leaving your stuff out)
 * Don't have snaking file paths
 * Don't run into the issue where file path names seem to negate one-another. Let's say I had one apple and I needed to put it in a bucket. Which would I choose: "red objects" or "Fruits"? Sometimes when we create too granular of file names the same issue happens, especially when the objects I want to classify don't have a singular purpose. For instance, say I had a folder named "Congress Article 2025" and a folder named "Canonical Visualizations" for visualizations that I use everywhere. I have a visualization that I use everywhere and put in the Congress article. Is this an effective directory naming scheme? To me the answer could be no, or it could be that I should make a copy of the visualization and put it in both folders. On HPC I can do that with a symlink (or a symbolic link). 
+
+
+
+Dissentometer heatmaps do not make sense outside the context of dissentometer. They are hardcoded and require the full project to make sense
+groq_client is interoperable and can be used anywhere. It stands alone.
+
