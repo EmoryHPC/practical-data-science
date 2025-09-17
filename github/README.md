@@ -38,6 +38,11 @@ Working with GitHub mirrors the rhythm of a day:
 * Start of the day → Always pull from the repository before you begin. This ensures you're working with the most up-to-date code.
 * End of the day → Always push your code when you finish. This saves your progress and makes it available for others to use.
 
+
+SHOW COMMANDS FOR PULL STAGE COMMIT PUSH 
+PUT TERMINAL IMAGES 
+
+
 ## Version Control
 
 Our work is always provisional and revisable. This is why we use version control. 
