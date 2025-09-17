@@ -1,5 +1,7 @@
 # What is Practical Data Science? 
 
+open science 
+
 Pragmatism says ideas and knowledge are valuable insofar as they produce practical consequences. The value of ideas and concepts are tied to--and discovered through--their practical effects and their usefulness in guiding action. 
 
 In this sense, Practical Data Science is an approach to data science tools and methods that emphasizes:
@@ -13,6 +15,22 @@ In this sense, Practical Data Science is an approach to data science tools and m
 * **Iterative problem-solving**. Knowledge emerges through cycles of experimentation, feedback, and adjustment rather than from fixed, final answers.
 
 * **Bridging theory and practice**. Like pragmatist philosophy, Practical Data Science refuses to separate theory from application: methods and concepts are evaluated by the consequences they produce when put into practice.
+
+### Practical Data Science Meets Open Science
+
+Open Science emphasizes transparency, reproducibility, collaboration, and accessibility in knowledge production. Practical Data Science naturally aligns with these commitments because both paradigms resist treating knowledge as fixed or private. Instead, they value knowledge as a process—emergent, collective, and always open to revision.
+
+Connections between the two paradigms:
+
+Transparency of process. Iterative, pragmatic cycles of experimentation are strengthened when methods, data, and code are openly shared.
+
+Community feedback. Pragmatism’s emphasis on consequences expands when others can test, critique, and build on your methods—core to open science.
+
+Accessibility. Practical usefulness depends on whether others can actually access and apply tools and knowledge; open science removes barriers.
+
+Ethical responsibility. Context sensitivity demands attention to fairness, justice, and inclusivity—values advanced by open access to research and data.
+
+Thus, Practical Data Science is not simply a methodological stance but a call to embed pragmatist principles into the open science movement. The openness of data, code, and methods creates the very feedback loops pragmatism depends upon.
 
 ### How to Approach a Problem
 
