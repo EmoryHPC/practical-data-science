@@ -18,7 +18,7 @@ In this sense, Practical Data Science is an approach to data science tools and m
 
 ### Practical Data Science Meets Open Science
 
-Open Science emphasizes transparency, reproducibility, collaboration, and accessibility in knowledge production. Practical Data Science naturally aligns with these commitments because both paradigms resist treating knowledge as fixed or private. Instead, they value knowledge as a process—emergent, collective, and always open to revision.
+Open Science emphasizes transparency, reproducibility, collaboration, and accessibility in knowledge production. Practical Data Science naturally aligns with these commitments because both paradigms resist treating knowledge as a static or resticted resource. Instead, they value knowledge as a process—emergent, collective, and open to iteration.
 
 Connections between the two paradigms:
 
