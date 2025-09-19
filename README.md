@@ -1,7 +1,5 @@
 # What is Practical Data Science? 
 
-open science 
-
 Pragmatism says ideas and knowledge are valuable insofar as they produce practical consequences. The value of ideas and concepts are tied to--and discovered through--their practical effects and their usefulness in guiding action. 
 
 In this sense, Practical Data Science is an approach to data science tools and methods that emphasizes:
