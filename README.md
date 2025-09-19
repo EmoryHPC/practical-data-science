@@ -28,7 +28,7 @@ Accessibility. Practical usefulness depends on whether others can actually acces
 
 Ethical responsibility. Context sensitivity demands attention to fairness, justice, and inclusivity—values advanced by open access to research and data.
 
-Thus, Practical Data Science is not simply a methodological stance but a call to embed pragmatist principles into the open science movement. The openness of data, code, and methods creates the very feedback loops pragmatism benefits from.
+Thus, Practical Data Science is also a call to embed pragmatist principles into the open science movement. The openness of data, code, and methods creates the very feedback loops pragmatism benefits from.
 
 ### How to Approach a Problem, Pragmatically
 
