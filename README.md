@@ -22,15 +22,15 @@ Connections between the two paradigms:
 
 Transparency of process. Iterative, pragmatic cycles of experimentation are strengthened when methods, data, and code are openly shared.
 
-Community feedback. Pragmatism’s emphasis on consequences expands when others can test, critique, and build on your methods—core to open science.
+Community feedback. Pragmatism’s emphasis on consequences expands when others can test, critique, and build on methods—core to open science.
 
-Accessibility. Practical usefulness depends on whether others can actually access and apply tools and knowledge; open science removes barriers.
+Accessibility. Practical usefulness depends on whether others can actually access and apply tools and knowledge such as by viewing code; open science removes barriers.
 
 Ethical responsibility. Context sensitivity demands attention to fairness, justice, and inclusivity—values advanced by open access to research and data.
 
-Thus, Practical Data Science is not simply a methodological stance but a call to embed pragmatist principles into the open science movement. The openness of data, code, and methods creates the very feedback loops pragmatism depends upon.
+Thus, Practical Data Science is not simply a methodological stance but a call to embed pragmatist principles into the open science movement. The openness of data, code, and methods creates the very feedback loops pragmatism benefits from.
 
-### How to Approach a Problem
+### How to Approach a Problem, Pragmatically
 
 Verticle slice, and then inspect every stage 
 
