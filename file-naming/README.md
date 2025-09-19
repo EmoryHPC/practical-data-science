@@ -1,6 +1,7 @@
 Let's play a game. 
 Which folder was ENTER
 
+![Descriptive alt text](https://raw.githubusercontent.com/EmoryHPC/practical-data-science/main/file-naming/images/file_names.jpg)
 
 
 
