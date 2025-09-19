@@ -1,10 +1,9 @@
 Let's play a game. I have a program that tags dates witin Wikipedia data. 
 
-Identify: 
-
-(1) The compressed Wikipedia data. 
-(2) The Wikipedia data extracted from its compressed version.
-(3) The data that has been tagged with dates. 
+Identify these three things: 
+* The compressed Wikipedia data.
+* The Wikipedia data extracted from its compressed version.
+* The data that has been tagged with dates. 
 
 
 Which folder was ENTER
