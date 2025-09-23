@@ -81,7 +81,6 @@ git commit -m "Add new analysis script for X"
 
 # Push
 git push origin my-feature-branch  
-
 ```
 
 
