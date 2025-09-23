@@ -65,3 +65,9 @@ DO NOT FINISH ONE PHASE IN ITS ENTIRETY BEFORE INSPECTING IT
 
 
 On going discovery 
+
+### Data Science is Often Taught as Exercises in Isolation 
+
+this does not set us up for a project, where the output from one stage needs to be passed to another, 
+cascading failure 
+
