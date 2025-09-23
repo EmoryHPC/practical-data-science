@@ -66,12 +66,15 @@ DO NOT FINISH ONE PHASE IN ITS ENTIRETY BEFORE INSPECTING IT
 
 On going discovery 
 
-### Data Science is Often Taught as Exercises in Isolation 
+### Practical Data Science has Projects 
+
+Data Science is Often Taught as Exercises in Isolation 
+
+its complexity as a system 
 
 this does not set us up for a project, where the output from one stage needs to be passed to another, 
 cascading failure 
 
-its complexity as a system 
 
 
 
