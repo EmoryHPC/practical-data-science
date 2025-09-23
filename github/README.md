@@ -98,7 +98,7 @@ We can write GitHub issues in such a way that
 
 ![GitHub Issue 1](https://github.com/EmoryHPC/practical-data-science/blob/main/github/images/github_issue_1.png?raw=true)
 
-
+By 
 
 ![GitHub Issue 2](https://github.com/EmoryHPC/practical-data-science/blob/main/github/images/github_issue_2.png?raw=true)
 
