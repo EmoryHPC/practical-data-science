@@ -94,11 +94,28 @@ A GitHub Issue documents and tracks work to be done, including tasks or bugs. Be
 We can enhance them with labels 
 
 
-We can write GitHub issues in such a way that 
+One issue with multiple problems. The advantages are that this approach keeps related tasks grouped together in a single record. It is easier to see a big picture of what needs to be done, and there are fewer issues to write and manage, which can save time. The disadvantages are that it is harder to track progress if some tasks are completed and not all (I cannot close issues along the way to track progress), discussions about different subtasks can get tangled together, and it is difficult to assign subtasks to different people if responsibilities are split. 
 
 ![GitHub Issue 1](https://github.com/EmoryHPC/practical-data-science/blob/main/github/images/github_issue_1.png?raw=true)
 
-By 
+We can write GitHub issues in such a way that there is one issue per problem. 
+
+Pros:
+
+Each issue is tightly scoped, so it’s easy to close when finished.
+
+Easier to assign to different contributors.
+
+Provides a clear historical record of each piece of work.
+
+Works better with automation (e.g., linking issues to pull requests, tracking metrics).
+
+Cons:
+
+Can feel repetitive if the issues are nearly identical.
+
+May create a flood of issues that seem overwhelming without good labeling.
+ 
 
 ![GitHub Issue 2](https://github.com/EmoryHPC/practical-data-science/blob/main/github/images/github_issue_2.png?raw=true)
 
