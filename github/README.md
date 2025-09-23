@@ -38,6 +38,52 @@ Working with GitHub mirrors the rhythm of a day:
 * Start of the day → Always pull from the repository before you begin. This ensures you're working with the most up-to-date code.
 * End of the day → Always push your code when you finish. This saves your progress and makes it available for others to use.
 
+```
+cd practical-data-science
+```
+
+
+```
+git pull origin main
+```
+
+```
+git add .
+```
+
+or be more selective:
+
+```
+git add file.py file.R /folder/file.sh
+```
+
+```
+git commit -m "Meaningful commit message here"
+```
+
+
+```
+git push origin main
+```
+
+branches 
+
+```
+# Sync
+git pull origin main  
+
+# Branch
+git checkout -b my-feature-branch  
+
+# Work
+git add .
+git commit -m "Add new analysis script for X"  
+
+# Push
+git push origin my-feature-branch  
+
+```
+
 
 SHOW COMMANDS FOR PULL STAGE COMMIT PUSH 
 PUT TERMINAL IMAGES 
