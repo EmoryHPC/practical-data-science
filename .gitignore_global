@@ -1,0 +1,15 @@
+# This is an example gitignore global
+# This gitignore global will 
+
+# Ignore Python cache and compiled files
+*.py
+
+# Ignore virtual environments
+.env/
+
+# Ignore system files
+.DS_Store
+
+# Ignore logs and temp files
+*.log
+*.tmp
