@@ -99,9 +99,6 @@ We can write GitHub issues in such a way that
 ![GitHub Issue 2](https://github.com/EmoryHPC/practical-data-science/blob/main/github/images/github_issue_2.png?raw=true)
 
 
-----
-
-
 flowchart LR
   %% Style
   classDef step fill:#eef,stroke:#88a,stroke-width:1px,rx:8,ry:8
@@ -132,9 +129,6 @@ flowchart LR
     E1 --> E2[Regex with suffix guards\n(e.g., 2000 kg, 30 mph, 60 Hz)]
     E2 --> E3[Normalize to ISO dates\n+ source offsets]
   end
-
-
-
 
 
 
