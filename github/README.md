@@ -89,6 +89,10 @@ test_scatter_plot.py
 
 ## GitHub Issues
 
+A GitHub Issue documents and tracks work to be done, including tasks or bugs. Because each issue keeps a history of conversation, it doubles as a record of why certain choices were made 
+
+We can enhance them with labels 
+
 
 We can write GitHub issues in such a way that 
 
