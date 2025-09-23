@@ -71,3 +71,8 @@ On going discovery
 this does not set us up for a project, where the output from one stage needs to be passed to another, 
 cascading failure 
 
+its complexity as a system 
+
+
+
+
