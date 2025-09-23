@@ -118,6 +118,8 @@ venv/
 data/
 ```
 
+describe .gitignore_global
+
 ## Creativity and Room to Err
 
 You might create draft notes, experimental code, or half-finished ideas as you work. By adding these to a `.gitignore`, they will stay on your computer but won't be shared with others. This way, your creative "spaghetti code" can stay part of your creative process without turning into a stressy spaghetti ball for someone else.
