@@ -99,39 +99,6 @@ We can write GitHub issues in such a way that
 ![GitHub Issue 2](https://github.com/EmoryHPC/practical-data-science/blob/main/github/images/github_issue_2.png?raw=true)
 
 
-flowchart LR
-  %% Style
-  classDef step fill:#eef,stroke:#88a,stroke-width:1px,rx:8,ry:8
-  classDef store fill:#efe,stroke:#6a6,stroke-width:1px,rx:8,ry:8
-
-  %% Main steps
-  A[Scrape Wikipedia]:::step -->|raw .txt\n/data/raw/*.txt| B[LLM Translation]:::step
-  B -->|translated .txt\n/data/translated/*.txt| C[Regex Date Extraction]:::step
-  C -->|dates.csv\n/data/dates/dates.csv| D[(Dataset Store)]:::store
-
-  %% Scraping lane
-  subgraph S[Scraping]
-    A --> S1[HTTP fetch + throttle]
-    S1 --> S2[Parse HTML → plain text]
-    S2 --> S3[Write files + manifest.json]
-  end
-
-  %% Translation lane
-  subgraph T[Translate]
-    B --> T1[Chunking (3–4k tokens, overlap)]
-    T1 --> T2[Prompt: literal, preserve numerals]
-    T2 --> T3[LLM API + metadata (model, version)]
-  end
-
-  %% Extraction lane
-  subgraph E[Extract]
-    C --> E1[Regex with prefix guards\n(e.g., No. 1999, § 2001, Vol. 3)]
-    E1 --> E2[Regex with suffix guards\n(e.g., 2000 kg, 30 mph, 60 Hz)]
-    E2 --> E3[Normalize to ISO dates\n+ source offsets]
-  end
-
-
-
 
 
 
