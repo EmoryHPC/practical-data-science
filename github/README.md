@@ -101,7 +101,7 @@ This is an example of a `.gitignore`. The `*` means "any filename." For example,
 ```
 # Ignore Python cache and compiled files
 __pycache__/
-*.py[cod]
+*.py
 
 # Ignore virtual environments
 venv/
@@ -123,14 +123,38 @@ data/
 You might create draft notes, experimental code, or half-finished ideas as you work. By adding these to a `.gitignore`, they will stay on your computer but won't be shared with others. This way, your creative "spaghetti code" can stay part of your creative process without turning into a stressy spaghetti ball for someone else.
 
 ```
+# Ignore specific files
+count_test.py
+test_scatter_plot.py
+```
+
+Full: 
+
+
+```
 # Ignore Python cache and compiled files
 __pycache__/
-*.py[cod]
+*.py
+
+# Ignore virtual environments
+venv/
+.env/
+
+# Ignore system files
+.DS_Store
+
+# Ignore logs and temp files
+*.log
+*.tmp
+
+# Ignore whole directories
+data/
 
 # Ignore specific files
 count_test.py
 test_scatter_plot.py
 ```
+
 
 ## GitHub Issues
 
