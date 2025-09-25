@@ -4,7 +4,7 @@ Pragmatism says ideas and knowledge are valuable (useful) insofar as they produc
 
 In this sense, Practical Data Science is an approach to data science tools and methods that emphasizes:
 
-* **Actionable over abstract methods**. The value of a method is determined not only in elegance, but in whether it informs meaningful decisions.
+* **Actionable over abstract methods**. The value of a method is determined not only in theory alone, but in whether it informs meaningful decisions.
 
 * **Usefulness over perfection**. Methods and tools are judged by their ability to guide meaningful action—even if they are approximate, heuristic, or incomplete.
 
