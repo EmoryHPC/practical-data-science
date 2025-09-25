@@ -17,4 +17,4 @@ I am passing to the next stage over and over, and that can cause challenges.
 
 ![Largest Loop](https://github.com/EmoryHPC/practical-data-science/blob/main/iteration/images/largest_loop.jpg)
 
-![Too Hard Loops](https://github.com/EmoryHPC/practical-data-science/blob/main/iteration/images/too_hard_loops.jpg)
+![Too Hard Loops](https://github.com/EmoryHPC/practical-data-science/blob/main/iteration/images/too_hard_loops_2.jpg)
